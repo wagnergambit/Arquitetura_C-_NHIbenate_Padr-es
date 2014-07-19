@@ -1,0 +1,12 @@
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.WEB.UI.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.WEB.UI.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.Domain.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.Repository.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\NHibernate.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\FluentNHibernate.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Iesi.Collections.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.Domain.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\bin\Arquitetura.Repository.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\obj\Debug\Arquitetura.WEB.UI.csprojResolveAssemblyReference.cache
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\obj\Debug\Arquitetura.WEB.UI.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.WEB.UI\obj\Debug\Arquitetura.WEB.UI.pdb
