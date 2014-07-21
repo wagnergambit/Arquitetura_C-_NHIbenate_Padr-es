@@ -37,6 +37,7 @@ namespace Arquitetura.Repository.Helpers
 
         public static ISession OpenSession()
         {
+            //TESTE DE ITERAÇÃO 
             return SessionFactory.OpenSession();
         }
     }
