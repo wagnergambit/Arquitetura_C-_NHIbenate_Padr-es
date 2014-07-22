@@ -1,0 +1,143 @@
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FK539259E8D9BCA92]') AND parent_object_id = OBJECT_ID('GruposToPessoas'))
+alter table GruposToPessoas  drop constraint FK539259E8D9BCA92
+
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FK539259E8B8F9FAB9]') AND parent_object_id = OBJECT_ID('GruposToPessoas'))
+alter table GruposToPessoas  drop constraint FK539259E8B8F9FAB9
+
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FK2EFE4D464CF8E497]') AND parent_object_id = OBJECT_ID('[Pessoa]'))
+alter table [Pessoa]  drop constraint FK2EFE4D464CF8E497
+
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FKFCEA32D9D9BCA92]') AND parent_object_id = OBJECT_ID('[PessoaFisica]'))
+alter table [PessoaFisica]  drop constraint FKFCEA32D9D9BCA92
+
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FK29ED03F9D9BCA92]') AND parent_object_id = OBJECT_ID('[PessoaJuridica]'))
+alter table [PessoaJuridica]  drop constraint FK29ED03F9D9BCA92
+
+
+    if exists (select 1 from sys.objects where object_id = OBJECT_ID(N'[FK8C26435AD9BCA92]') AND parent_object_id = OBJECT_ID('[Telefone]'))
+alter table [Telefone]  drop constraint FK8C26435AD9BCA92
+
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Clientes]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Clientes]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Departamento]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Departamento]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Grupo]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Grupo]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'GruposToPessoas') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table GruposToPessoas
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Pessoa]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Pessoa]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[PessoaFisica]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [PessoaFisica]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[PessoaJuridica]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [PessoaJuridica]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Telefone]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Telefone]
+
+    if exists (select * from dbo.sysobjects where id = object_id(N'[Usuario]') and OBJECTPROPERTY(id, N'IsUserTable') = 1) drop table [Usuario]
+
+    create table [Clientes] (
+        Id BIGINT IDENTITY NOT NULL,
+       Cep NVARCHAR(255) null,
+       Nome NVARCHAR(255) null,
+       Cidade NVARCHAR(255) null,
+       primary key (Id)
+    )
+
+    create table [Departamento] (
+        Codigo INT IDENTITY NOT NULL,
+       Nome NVARCHAR(255) not null,
+       Descricao NVARCHAR(255) null,
+       DataCadastro DATETIME not null,
+       primary key (Codigo)
+    )
+
+    create table [Grupo] (
+        Codigo INT IDENTITY NOT NULL,
+       Nome NVARCHAR(255) not null,
+       Descricao NVARCHAR(255) null,
+       DataCadastro DATETIME not null,
+       primary key (Codigo)
+    )
+
+    create table GruposToPessoas (
+        Grupo_id INT not null,
+       Pessoa_id INT not null
+    )
+
+    create table [Pessoa] (
+        Codigo INT IDENTITY NOT NULL,
+       Nome NVARCHAR(255) not null,
+       Endereco NVARCHAR(255) null,
+       Cep NVARCHAR(255) null,
+       Email NVARCHAR(255) null,
+       DataCadastro DATETIME not null,
+       Status INT null,
+       Departamento_id INT not null,
+       primary key (Codigo)
+    )
+
+    create table [PessoaFisica] (
+        Pessoa_id INT not null,
+       Cpf NVARCHAR(14) not null,
+       Nacionalidade NVARCHAR(255) null,
+       primary key (Pessoa_id)
+    )
+
+    create table [PessoaJuridica] (
+        Pessoa_id INT not null,
+       Cnpj NVARCHAR(18) not null,
+       WebSite NVARCHAR(255) null,
+       primary key (Pessoa_id)
+    )
+
+    create table [Telefone] (
+        Codigo INT IDENTITY NOT NULL,
+       CodigoDdd INT not null,
+       Numero INT not null,
+       Pessoa_id INT null,
+       primary key (Codigo)
+    )
+
+    create table [Usuario] (
+        Id BIGINT IDENTITY NOT NULL,
+       Login NVARCHAR(255) null,
+       Nome NVARCHAR(255) null,
+       Senha NVARCHAR(255) null,
+       primary key (Id)
+    )
+
+    alter table GruposToPessoas 
+        add constraint FK539259E8D9BCA92 
+        foreign key (Pessoa_id) 
+        references [Pessoa]
+
+    alter table GruposToPessoas 
+        add constraint FK539259E8B8F9FAB9 
+        foreign key (Grupo_id) 
+        references [Grupo]
+
+    alter table [Pessoa] 
+        add constraint FK2EFE4D464CF8E497 
+        foreign key (Departamento_id) 
+        references [Departamento]
+
+    alter table [PessoaFisica] 
+        add constraint FKFCEA32D9D9BCA92 
+        foreign key (Pessoa_id) 
+        references [Pessoa]
+
+    alter table [PessoaJuridica] 
+        add constraint FK29ED03F9D9BCA92 
+        foreign key (Pessoa_id) 
+        references [Pessoa]
+
+    alter table [Telefone] 
+        add constraint FK8C26435AD9BCA92 
+        foreign key (Pessoa_id) 
+        references [Pessoa]
