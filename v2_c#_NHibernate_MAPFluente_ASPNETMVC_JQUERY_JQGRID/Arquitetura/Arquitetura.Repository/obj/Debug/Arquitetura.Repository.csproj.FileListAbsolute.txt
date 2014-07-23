@@ -1,0 +1,12 @@
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Arquitetura.Repository.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Arquitetura.Repository.pdb
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Arquitetura.Domain.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\FluentNHibernate.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\NHibernate.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Iesi.Collections.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Castle.Core.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\bin\Debug\Arquitetura.Domain.pdb
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\obj\Debug\Arquitetura.Repository.csprojResolveAssemblyReference.cache
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\obj\Debug\Arquitetura.Repository.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Repository\obj\Debug\Arquitetura.Repository.pdb

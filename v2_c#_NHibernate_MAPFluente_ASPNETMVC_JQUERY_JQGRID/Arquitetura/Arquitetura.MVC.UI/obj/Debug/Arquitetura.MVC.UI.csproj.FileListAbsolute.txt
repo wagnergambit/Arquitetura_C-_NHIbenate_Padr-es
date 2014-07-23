@@ -1,0 +1,120 @@
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.MVC.UI.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.MVC.UI.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Antlr3.Runtime.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Domain.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Repository.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.Core.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\EntityFramework.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Newtonsoft.Json.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.Formatting.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.WebRequest.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Helpers.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.WebHost.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Mvc.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Optimization.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Razor.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\WebGrease.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.Data.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.WebData.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\FluentNHibernate.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\NHibernate.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Iesi.Collections.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Domain.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Repository.pdb
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\EntityFramework.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Newtonsoft.Json.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.Formatting.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.WebRequest.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Helpers.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.WebHost.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Mvc.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Razor.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.Data.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.WebData.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.Core.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.csprojResolveAssemblyReference.cache
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.dll
+C:\Users\wpsilva\documents\visual studio 2010\Projects\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.pdb
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.MVC.UI.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.MVC.UI.pdb
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Antlr3.Runtime.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Domain.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Repository.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.AspNet.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.Core.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\EntityFramework.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.Infrastructure.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Newtonsoft.Json.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.Formatting.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.WebRequest.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Helpers.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.WebHost.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Mvc.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Optimization.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Razor.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Deployment.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Razor.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\WebGrease.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.Data.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.WebData.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\FluentNHibernate.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\NHibernate.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Iesi.Collections.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Domain.pdb
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Arquitetura.Repository.pdb
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\EntityFramework.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Newtonsoft.Json.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.Formatting.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Net.Http.WebRequest.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Helpers.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Http.WebHost.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Mvc.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.Razor.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Deployment.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\System.Web.WebPages.Razor.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.Data.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\WebMatrix.WebData.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.AspNet.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.Core.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OAuth.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.csprojResolveAssemblyReference.cache
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.dll
+H:\Estudo\v2_c#_NHibernate_MAPFluente_ASPNETMVC_JQUERY_JQGRID\Arquitetura\Arquitetura.MVC.UI\obj\Debug\Arquitetura.MVC.UI.pdb

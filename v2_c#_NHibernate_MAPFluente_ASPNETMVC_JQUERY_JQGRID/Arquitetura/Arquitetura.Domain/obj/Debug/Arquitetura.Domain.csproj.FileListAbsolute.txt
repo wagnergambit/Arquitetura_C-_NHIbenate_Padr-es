@@ -1,0 +1,4 @@
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Domain\bin\Debug\Arquitetura.Domain.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Domain\bin\Debug\Arquitetura.Domain.pdb
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Domain\obj\Debug\Arquitetura.Domain.dll
+C:\Users\wpsilva\Documents\Visual Studio 2010\Projects\Arquitetura\Arquitetura.Domain\obj\Debug\Arquitetura.Domain.pdb
